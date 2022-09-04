@@ -1,0 +1,7 @@
+{
+  "name": "SaltFit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
